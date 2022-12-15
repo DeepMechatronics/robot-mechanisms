@@ -1,4 +1,4 @@
-# robot-mechanisms
+# Robot-Mechanisms
 Teaching and Learmimg Resource for Robot Mechanisms
 
 
